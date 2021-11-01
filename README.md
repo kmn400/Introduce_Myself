@@ -8,7 +8,7 @@ myno
 
 이메일주소 <kmn400@nate.com><BR />
 ![N|Solid](git.png)
-
+*****
 1. 내가 배운 기술들<BR />
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 2. 내가 배울 기술들<BR />
