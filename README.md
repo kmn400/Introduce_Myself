@@ -7,7 +7,7 @@ myno
 [homepage]: https://github.com/kmn400/ "Go 내 홈페이지"
 
 이메일주소 <kmn400@nate.com>
-(git.png) <BR />
+[![N|Solid](git.png)] <BR />
 
 
 1. 내가 배운 기술들
