@@ -1,7 +1,7 @@
 # 김민호
 ## 세민직업학교 프로그래밍 학생
 
-[![N|Solid](C:\Users\User-04\Desktop\repoistory\firstRepoistory\git.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](git.png)](https://nodesource.com/products/nsolid)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
