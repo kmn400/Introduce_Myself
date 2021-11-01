@@ -4,7 +4,7 @@ myno
 -------------
 내 홈페이지: [홈페이지][homepage]
 
-[googlelink]: https://github.com/kmn400/ "Go 내 홈페이지"
+[homepage]: https://github.com/kmn400/ "Go 내 홈페이지"
 
 이메일주소 <BR />
 내 블로그 <BR />
