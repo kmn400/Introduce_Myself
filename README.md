@@ -9,7 +9,7 @@
 
 📫 How to reach me 내 홈페이지: [홈페이지][homepage]
 
-[homepage]: https://github.com/kmn400/ "Go 내 홈페이지"<BR />
+[homepage]: https://github.com/kmn400/ "Go 내 홈페이지"
 
 이메일주소 <kmn400@nate.com><BR />
 ![N|Solid](git.png)
