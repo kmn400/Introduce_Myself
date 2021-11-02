@@ -5,7 +5,7 @@
 
 🌱 Flutter 앱 개발 공부를 하고 있습니다.<BR />
 
-💬 궁금한 게 있다면 선생님께 언제든 물어볼 겁니다.<BR />
+💬 궁금한 게 있다면 꼭 알고 싶습니다. Somebody help me!<BR />
 
 📫 How to reach me 내 홈페이지: [홈페이지][homepage]
 
