@@ -22,6 +22,7 @@ Myno의 개인프로필
 *****
 1. 내가 배운 기술들<BR />
 2. 내가 배울 기술들<BR />
+![JAVA](https://img.shields.io/badge/-JAVA-green)
 ![Dart](https://img.shields.io/badge/dart-AAA-yellowgreen)
 ![Markdown](https://img.shields.io/badge/markdown-AAA-red)
 3. 내가 만들어본 프로젝트
